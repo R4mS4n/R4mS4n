@@ -60,8 +60,24 @@
 
 <!--banderas-->
 <p align="center">
-<a target="blank"><img align="center" src="[https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png](https://github.com/R4mS4n/R4mS4n/blob/fc75382b028e05856e31efc1a8b7397b790384a2/images/espa%C3%B1ol.png)" alt="Mexico" height="50" width="50" /></a> 
+<img align="center" src="https://github.com/R4mS4n/R4mS4n/blob/fc75382b028e05856e31efc1a8b7397b790384a2/images/espa%C3%B1ol.png" alt="Icono en Español" height="50" width="80" />
+<img align="center" src="https://github.com/R4mS4n/R4mS4n/blob/4672dc0a90d5785cc404ea9bfc0ab1cebee0da33/images/ingles.png" alt="Icono en Ingles" height="50" width="80" />
+</p>
 
+<!-- Idiomas que quiero aprender -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages I'm Learning🌐</h2></summary>
+  </ul>
+</div>
+
+<!--banderas-->
+<p align="center">
+<img align="center" src="https://github.com/R4mS4n/R4mS4n/blob/4672dc0a90d5785cc404ea9bfc0ab1cebee0da33/images/frensh.png" alt="French" height="40" width="65" />
+<img align="center" src="https://github.com/R4mS4n/R4mS4n/blob/4672dc0a90d5785cc404ea9bfc0ab1cebee0da33/images/japan.png" alt="Japan" height="40" width="65" />
+<img align="center" src="https://github.com/R4mS4n/R4mS4n/blob/4672dc0a90d5785cc404ea9bfc0ab1cebee0da33/images/kor.png" alt="Korean" height="40" width="65" />
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
