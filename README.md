@@ -32,7 +32,7 @@
 🎓 &nbsp;Actualmente estudio Ingeniería en Tecnologías Computacionales en el Tec de Monterrey.\
 🌱 &nbsp;Soy Boliviana~ .\
 ✍️ &nbsp;Me gusta el arte, mis hobbies son dibujar y escribir.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;Mi e-Mail es A01571291@tec.mx, por si tienes alguna pregunta o solo quieres conversar. \
 📄 &nbsp; Me gustaría aprender front end y diseño de páginas web, por el momento me dedico a lo académico y desarrollo de videojuegos. \
 <!--Intro end-->
